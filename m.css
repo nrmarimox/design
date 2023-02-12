@@ -1,0 +1,31 @@
+* {
+padding: 0;
+margin: 0;
+}
+.background {
+margin-bottom:5vw;
+padding: 5vw 0;
+}
+.design {
+  background-image: url(大理石2.jpg);
+}
+.background img  {
+height: 30vw;
+width: 55vw;
+display: block;
+margin: 0 auto;
+}
+.design {
+text-align: center;
+}
+
+.hp-design img {
+    height:300px;
+    width: 500px;
+    margin: 5vw 0vw;
+}
+.insta-design img {
+    height: 540px;
+    width: 540px;
+      margin: 5vw 0vw;
+}
